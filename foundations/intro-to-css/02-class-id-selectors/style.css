@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.common {
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+    background-color: #ffc0cb;
+}
+
+#numbertwo {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#numberfour {
+    font-weight: bold;
+    background-color: #90ee90;
+    font-size: 24px;
+}
